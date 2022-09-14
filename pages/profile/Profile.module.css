@@ -1,0 +1,26 @@
+.userContainer span {
+  margin-top: 10px;
+}
+
+.containerInput button {
+  width: 350px;
+  height: 50px;
+  margin: 10px;
+  background-color: #e5e8ed;
+  border: 0px;
+  border-radius: 10px;
+}
+
+.containerUser {
+  width: 10%;
+}
+.inputImg {
+  width: 100px;
+}
+.fadeIn {
+  transition: opacity 1s ease;
+}
+.fadeOut {
+  opacity: 0;
+  transition: opacity 1s ease;
+}
